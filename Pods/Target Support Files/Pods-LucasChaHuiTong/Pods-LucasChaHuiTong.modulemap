@@ -1,0 +1,6 @@
+framework module Pods_LucasChaHuiTong {
+  umbrella header "Pods-LucasChaHuiTong-umbrella.h"
+
+  export *
+  module * { export * }
+}
